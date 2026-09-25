@@ -12,7 +12,6 @@
         for ($j=1; $j <= 5; $j++) { 
             echo "Row is $i, Column is $j, Result is " . $i * $j . "<br>";
         }
-        echo "<br>";
     }
 
     ?>
