@@ -48,8 +48,8 @@
         ++$count;
     }
 
-    // Break & Continue Example
-    echo "<h2>Break & Continue Example</h2>";
+    // Break & Continue using for Loop Example
+    echo "<h2>Break & Continue using for Loop Example</h2>";
     for ($i=1; $i <= 10; $i++) {
         if ($i == 5) {
             echo "Breaking the loop at $i <br>";
