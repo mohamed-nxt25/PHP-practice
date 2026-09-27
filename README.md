@@ -13,6 +13,7 @@
 | **Course**      | Web Application Development — PHP & MySQL |
 | **Course Code** | CA2313                                    |
 | **Faculty**     | Computer & Information Technology         |
+| **My Info**     | https://cards.brandsom.so/ae9ef7d5-61ba-4713-af56-70d687979a36         |
 | **Instructor**  | Yahye Ali Isse                            |
 
 
